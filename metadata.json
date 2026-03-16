@@ -1,0 +1,5 @@
+{
+  "name": "Ludo Master",
+  "description": "A complete, interactive Ludo game with 2-4 players, dice animations, and classic rules.",
+  "requestFramePermissions": []
+}
